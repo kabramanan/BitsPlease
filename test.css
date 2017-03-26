@@ -6,7 +6,7 @@
 }
 
 body{
-	background-image: url("https://images.unsplash.com/photo-1418154789672-7414683a8281?dpr=1&auto=compress,format&fit=crop&w=767&h=511&q=80&cs=tinysrgb&crop=");
+	background-image: url(https://images.unsplash.com/photo-1418154789672-7414683a8281);
 	background-size: cover;
 	background-position: center;
 	font-family: Lato;
