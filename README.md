@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+	<title>YouWeather</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Jim+Nightshade" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="test.css">
+	
+</head>
+<body>
+<!--Navbar-->
+	
 
-You can use the [editor on GitHub](https://github.com/Prajal6/BitsPlease/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+	      <ul class="nav navbar-nav">
+	        	<li><a href="#"><font color="red">About Us</font></a></li>
+	        	<li><a href="#"><font color="red">Contact Us</font></a></li>
+	      </ul>
+	      <ul class="nav navbar-nav navbar-right">
+	        <li><a href="#"> <font color="red">Create Account </font>  <i style="color: red" class="fa fa-user-plus"></i></a></li>
+	        <li><button class="btn btn-link" onclick="document.getElementById('id1').style.display='block'" style="width:auto; padding-top: 14px"><font color="red"> Login </font> <i class="w3-margin-right fa fa-user" style="color: red"></i></button></li>
+	       
+	      </ul>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	    </div>
+	    </div>
+		</nav>
+	</div>
+	<div style="margin-top: -400px" class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div id="content">
+					<h1>YouWeather</h1>
+					<h3>The Complete Weather App</h3>
+					<hr >
+					<button class="btn btn-danger btn-lg"><i class="w3-margin-left fa fa-cloud" style="color: orange"></i>   <a href="second.htm" style="color:orange"> Let's Go! </a></button>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--login-->
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Prajal6/BitsPlease/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
