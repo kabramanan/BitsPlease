@@ -1,3 +1,114 @@
+
+
+<!--Bits-Please-Tri-Hacker-Round-4-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -18,18 +129,14 @@
 	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	      <ul class="nav navbar-nav">
 	        	<li><a href="#"><font color="red">About Us</font></a></li>
-	        	<li><a href="#"><font color="red">Contact Us</font></a></li>
 	      </ul>
 	      <ul class="nav navbar-nav navbar-right">
-	        <li><a href="#"> <font color="red">Create Account </font> <i style="color: red" class="fa fa-user-plus"></i></a></li>
-	        <li><button class="btn btn-link" onclick="document.getElementById('id1').style.display='block'" style="width:auto; padding-top: 14px"><font color="red"> Login </font> <i class="w3-margin-right fa fa-user" style="color: red"></i></button></li>
-	       
+	        <li><a href="second.html"> <font color="red">Create Account </font> <i style="color: red" class="fa fa-user-plus"></i></a></li>
+	        <li><a href="second.html"> <font color="red"> Login </font> <i style="color: red" class="fa fa-user"></i></a></li>
+	        
 	      </ul>
 
 	    </div>
-	    </div>
-		</nav>
-	</div>
 	<div style="margin-top: -400px" class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -37,7 +144,7 @@
 					<h1>YouWeather</h1>
 					<h3>The Complete Weather App</h3>
 					<hr >
-					<button class="btn btn-danger btn-lg"><i class="w3-margin-left fa fa-cloud" style="color: orange"></i>   <a href="second.html" style="color:orange"> Let's Go! </a></button>
+					<button class="btn btn-danger btn-lg"><i class="w3-margin-left fa fa-cloud" style="color: orange"></i>   <a href="call.html" style="color:orange"> Let's Go! </a></button>
 				</div>
 			</div>
 		</div>
